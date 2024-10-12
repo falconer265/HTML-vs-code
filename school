@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <title>HANSE-BOL COLLEGE</title> 
+        <style>
+            html {
+                font-size: 22px
+            }
+            body{
+                background-color:blue;
+                color: white; 
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>HANSE-BOL COLLEGE</h1>
+        <h1>For God and mankind</h1>
+        <p>Welcome to Hanse-bol College The best learning enviroment for your child</p>
+        <p>We have...</p>
+        <p>1. There are different labs and equipments</p>
+        <p>2. Highly qualified teachers and staffs</p>
+        <p>3. A government approved school</p>
+        <p>4. Conducive learning enviroment ensuring the best for your child</p>
+        <p>5. Equipped computer labs</p>
+        <p>6. Coding curriculum and so much more</p>
+        <p>7. A very moderate school fees for all this</p>
+        <p>If you are interested or want more information about us contactus with</p>
+        <p>08064989940, 08033041095</p>
+        <p>We are located at 7, Babs Ladipo/Owode Street, New Oko-Oba Abule Egba, Lagos</p>
+        <p>See you soon.Thanks</p>
+    </body>
+</html>
